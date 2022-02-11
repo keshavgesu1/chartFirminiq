@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		56F4645127B67BE5004132F6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56F4645027B67BE5004132F6 /* AppDelegate.swift */; };
-		56F4645327B67BE5004132F6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56F4645227B67BE5004132F6 /* SceneDelegate.swift */; };
 		56F4645527B67BE5004132F6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56F4645427B67BE5004132F6 /* ViewController.swift */; };
 		56F4645827B67BE5004132F6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56F4645627B67BE5004132F6 /* Main.storyboard */; };
 		56F4645A27B67BE7004132F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56F4645927B67BE7004132F6 /* Assets.xcassets */; };
@@ -18,7 +17,6 @@
 /* Begin PBXFileReference section */
 		56F4644D27B67BE5004132F6 /* chartFirminiq.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = chartFirminiq.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		56F4645027B67BE5004132F6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		56F4645227B67BE5004132F6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		56F4645427B67BE5004132F6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		56F4645727B67BE5004132F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		56F4645927B67BE7004132F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -57,7 +55,6 @@
 			isa = PBXGroup;
 			children = (
 				56F4645027B67BE5004132F6 /* AppDelegate.swift */,
-				56F4645227B67BE5004132F6 /* SceneDelegate.swift */,
 				56F4645427B67BE5004132F6 /* ViewController.swift */,
 				56F4645627B67BE5004132F6 /* Main.storyboard */,
 				56F4645927B67BE7004132F6 /* Assets.xcassets */,
@@ -140,7 +137,6 @@
 			files = (
 				56F4645527B67BE5004132F6 /* ViewController.swift in Sources */,
 				56F4645127B67BE5004132F6 /* AppDelegate.swift in Sources */,
-				56F4645327B67BE5004132F6 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
